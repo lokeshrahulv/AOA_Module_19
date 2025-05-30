@@ -16,8 +16,8 @@ To Write a python program to implement linear search on the given tuple
 ```
 /*
 Program to implement a search function with parameter list name and the value to be searched using string values.
-Developed by: ASHWIN KUMAR S
-Register Number: 212222240013
+Developed by:  LOKESH RAHUL V V
+Register Number: 212222100024
 */
 ```
 ```
