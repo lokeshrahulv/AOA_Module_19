@@ -1,9 +1,9 @@
-EX 1A Reverse a String
-DATE:
-AIM:
+# EX 1A Reverse a String
+## DATE:
+## AIM:
 
 To Write a Program to Create a recursive function to reverse a string
-Algorithm
+# Algorithm
 
     Take input string s.
     If length of s is 0 or 1, return s (base case).
@@ -11,7 +11,7 @@ Algorithm
     Append s[0] to the result of the recursive call.
     Return the final reversed string.
 
-Program:
+# Program:
 
 /*
 Program to implement Reverse a String
@@ -34,8 +34,8 @@ input_string = input()
 reversed_string = reverse_string(input_string)
 print(reversed_string) 
 
-Output:
+# Output:
 
-Result:
+# Result:
 
 The program successfully reverses the input string using recursion. When the user provides an input string, the output displays the reversed version of the string
