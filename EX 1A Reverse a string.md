@@ -14,8 +14,8 @@ To Write a Program to Create a recursive function to reverse a string
 ```
 /*
 Program to implement Reverse a String
-Developed by: ASHWIN KUMAR S
-Register Number: 212222240013
+Developed by: LOKESH RAHUL V V
+Register Number: 212222100024
 */
 ```
 ```
